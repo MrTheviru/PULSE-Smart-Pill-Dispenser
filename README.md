@@ -8,11 +8,15 @@
   🏆 <b>1st Place — National All-Island Innovation Competition (2024)</b>
 </p>
 
+<p align="center">
+  <img src="assets/images/pulse-prototype-front.jpeg" alt="PULSE smart pill dispenser completed prototype" width="620">
+</p>
+
 ---
 
 ## 📌 Overview
 
-**PULSE** is an automated smart pill dispenser developed to support elderly users with medication management. The system combines scheduled reminders with accurate automated pill dispensing to help reduce missed doses.
+**PULSE** is an automated smart pill dispenser developed in **2023** to support elderly users with medication management. The system combines scheduled reminders with accurate automated pill dispensing to help reduce missed doses.
 
 The project integrates embedded electronics, IoT connectivity, mechanical design, 3D-printed components, and a custom web platform into a single working prototype.
 
@@ -61,9 +65,44 @@ PULSE was developed as a practical engineering solution for medication managemen
 
 ## 📷 Project Gallery
 
-Project prototype, internal mechanism, and CAD development images will be documented here.
+### Completed Prototype
 
-> **Note:** Detailed manufacturing files and editable CAD/STL source files are intentionally not published in this public repository.
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="assets/images/pulse-prototype-front.jpeg" alt="Front view of the completed PULSE smart pill dispenser" width="100%"><br>
+      <sub><strong>Completed PULSE Prototype</strong><br>Integrated enclosure, LCD, keypad and dispensing outlet.</sub>
+    </td>
+    <td width="50%" align="center">
+      <img src="assets/images/pulse-prototype-internal.jpeg" alt="Internal view of the PULSE prototype enclosure" width="100%"><br>
+      <sub><strong>Internal Construction</strong><br>Rear access view showing the installed mechanical and electronic systems.</sub>
+    </td>
+  </tr>
+</table>
+
+### Dispensing Mechanism
+
+<p align="center">
+  <img src="assets/images/pulse-carousel-mechanism.jpeg" alt="PULSE motorised pill carousel mechanism" width="620"><br>
+  <sub><strong>Motorised Carousel</strong><br>Multi-compartment dispensing mechanism with custom 3D-printed components.</sub>
+</p>
+
+### CAD Development
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="assets/images/pulse-cad-carousel-overview.png" alt="CAD overview of the PULSE pill carousel" width="100%"><br>
+      <sub><strong>Carousel Concept</strong><br>High-level CAD view of the multi-compartment arrangement.</sub>
+    </td>
+    <td width="50%" align="center">
+      <img src="assets/images/pulse-cad-mechanism-overview.png" alt="CAD overview of a PULSE mechanical assembly" width="100%"><br>
+      <sub><strong>Mechanical Development</strong><br>Visual design study for a custom mechanism component.</sub>
+    </td>
+  </tr>
+</table>
+
+> **Design protection:** Dimensioned drawings, editable CAD, STL files, manufacturing data, firmware source, and other production-ready materials are intentionally not published. This repository is a portfolio showcase, not an open-source hardware release.
 
 ---
 
@@ -78,6 +117,6 @@ Mechatronics Engineer · PCB Designer · IoT Developer · Entrepreneur
 
 ### Intellectual Property
 
-© 2024–2026 Theviru Lakwan. All rights reserved.
+© 2023–2026 Theviru Lakwan. All rights reserved.
 
 This repository is provided for portfolio and demonstration purposes. No permission is granted to copy, modify, manufacture, distribute, sublicense, or commercially use the project designs, documentation, or other original materials without prior written permission from the author.
